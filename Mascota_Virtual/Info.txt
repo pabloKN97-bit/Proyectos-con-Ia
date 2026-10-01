@@ -1,0 +1,13 @@
+Mascota virtual es un zorro con estilo de animación pixelart.
+Caracteristicas:
+- Deja notas de texto las cuales pueden ser modificadas.
+- Al hacer doble click sobre la mascota se va a la esquina inferior derecha para dormir.
+- Deja memes que pueden ser modificados mediante la carpeta que tiene para los memes.
+- Puede dejar manchas de barro por la pantalla.
+
+Asi mismo se puede modificar en su configuración  la frecuencia con la que realizara acciones, llamado grado de travesuras, la velocidad a la que se mueve por la pantalla, como los segundos que han de durar las huellas de barro que puede dejar por la pantalla. 
+Se puede modificar las acciones que se quiere que realice.
+Puedes escoger la accion que quieres que realice al momento en el apartado "Hacer ahora"
+En la configuración, en el apartado notas podrás modificar el texto de las notas que te introduce y modificar la carpeta con los memes.
+En aspecto podrás modificar el tamaño, los minutos de siesta y personalizar los colores tanto de las notas como de los paneles.
+
